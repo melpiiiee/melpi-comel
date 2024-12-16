@@ -1,1 +1,1 @@
-# melpi-comel
+# menentukan-bilangan-prima
